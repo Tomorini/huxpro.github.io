@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "免费流媒体共享观影站点"
+subtitle:   "可免注册登录的超推荐站点"
+date:       2024-09-06 12:00:00
+author:     "TWindy"
+catalog: true
+published: false
+header-style: text
+tags:
+  - 流媒体
+---
+
+最近在网络的浏览中，我找到了一个可以免费观看Netflix，Disney+，Amazon Prime等一线流媒体平台大作的站点，当前提供有免费订阅和付费订阅
