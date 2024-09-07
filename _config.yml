@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username: huxpro
+qq_username: 2158912025
 bilibili_username: 302132982
 github_username: Tomorini
 twitter_username: Tomorlin
